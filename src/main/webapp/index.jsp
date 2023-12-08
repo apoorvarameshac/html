@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome  to devops </h1>
+<h1>Welcome  to devops class</h1>
 <p>Welcome  to devops.</p>
 </body>
 </html>
